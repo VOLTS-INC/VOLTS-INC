@@ -1,16 +1,13 @@
-## Hi there 👋
+# ⚡ VOLTS INC
 
-<!--
-**VOLTS-INC/VOLTS-INC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Powering The Next Generation.** 
 
-Here are some ideas to get you started:
+VOLTS is an upcoming parent supercompany designed to lead and accelerate an ecosystem of industries. We serve as the central operating umbrella for a future constellation of independent projects, tech frameworks, and ventures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[🌐 Website Coming Soon](#)
+
+---
+
+<p align="center">
+  <sub>VOLTS INC • VOLTS-INC • they/them • <i>Focusing.</i></sub>
+</p>
