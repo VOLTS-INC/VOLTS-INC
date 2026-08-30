@@ -4,7 +4,7 @@
 
 VOLTS is an upcoming parent supercompany designed to lead and accelerate an ecosystem of industries. We serve as the central operating umbrella for a future constellation of independent projects, tech frameworks, and ventures.
 
-[🌐 Website Coming Soon](#)
+[🌐 Website](VOLTS-LandingPage)
 
 ---
 
